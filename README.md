@@ -15,8 +15,6 @@ From the workspace root (recommended):
   - `npm --prefix .\data-weaver install`
 - Start dev server on a fixed port:
   - `npm --prefix .\data-weaver run dev -- --port 5176 --strictPort`
-- Open:
-  - http://localhost:5176/
 
 If you see “Port 5176 is already in use”, stop the old dev server (or use the one-liner below):
 
