@@ -1,0 +1,22 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Node
+**/node_modules/
+**/dist/
+*.log
+
+# Vite env (keep examples)
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Large / local datasets & artifacts
+archive/
+*.zip
